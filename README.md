@@ -14,9 +14,8 @@ I'm currently learning **Web Development** — completed **HTML & CSS**, and now
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,python,c,mysql"/>
 </p>
-- **Frontend:** HTML, CSS, JavaScript (learning)
-- **Styling:** Responsive Design, Basic Animations
-- **Future Goals:** React, Node.js, Express, MongoDB, AI/ML
+<b>Frontend:</b> HTML, CSS, JavaScript (learning) <br>
+<b>Styling:</b> Responsive Design, Basic Animations <br>
 
 ---
 
@@ -35,7 +34,7 @@ I'm currently learning **Web Development** — completed **HTML & CSS**, and now
 ## 🌱 What I'm Learning Next
 - Complete **JavaScript** (ES6+, DOM, Fetch/API, async/await, projects)
 - **Backend** (Node.js, Express, Databases — MongoDB / MySQL)
-- **Frameworks** (React, component-driven development)
+- **Frameworks** 
 
 ---
 
