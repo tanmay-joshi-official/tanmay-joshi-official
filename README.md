@@ -1,4 +1,4 @@
-# Hi there, I'm Tanmay Joshi
+# Hi there👋, I'm Tanmay Joshi
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0099FF&width=600&lines=Web+Developer+in+Progress;AI%2FML+Enthusiast)
 
