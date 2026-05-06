@@ -106,9 +106,13 @@
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay-joshi-official&theme=tokyo-night&hide_border=true" />
 
-<br><br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=tanmay-joshi-official&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tanmay-joshi-official&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
 
 </div>
 
