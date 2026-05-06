@@ -11,7 +11,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=2" width="100%"/>
+</p>
 
 ## 🚀 About Me
 
@@ -23,7 +25,9 @@
 
 🔥 Love building projects, participating in hackathons, and constantly learning new technologies.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=2" width="100%"/>
+</p>
 
 # ⚒️ Tech Stack
 
@@ -61,7 +65,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=2" width="100%"/>
+</p>
 
 # 🚀 Featured Projects
 
@@ -90,7 +96,9 @@
 - Credential management & filtering
 - Optimized user experience
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=2" width="100%"/>
+</p>
 
 # 📊 GitHub Analytics
 
@@ -108,7 +116,7 @@
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
@@ -116,7 +124,11 @@
 
 </div>
 
----
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=2" width="100%"/>
+</p>
 
 # 🌐 Connect With Me
 
@@ -130,13 +142,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:tanmayjoshi579@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=2" width="100%"/>
+</p>
 
 <div align="center">
 
