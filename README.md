@@ -90,17 +90,17 @@ Own the whole stack. Ship it live. Learn in public.
 <h3 align="center">Report card</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-joshi-official&background=0C0B1D&ring=FF6B9A&fire=FF6B9A&currStreakNum=8B7CFF&sideNums=8B7CFF&currStreakLabel=FF6B9A&sideLabels=9A97C4&dates=9A97C4&stroke=2A2750&border=2A2750" width="100%" alt="GitHub streak and total contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-joshi-official&background=0C0B1D&ring=FF6B9A&fire=FF6B9A&currStreakNum=8B7CFF&sideNums=8B7CFF&currStreakLabel=FF6B9A&sideLabels=9A97C4&dates=9A97C4&stroke=2A2750&border=2A2750" width="60%" alt="GitHub streak and total contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmay-joshi-official&theme=radical" width="49%" alt="Profile details and contribution graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmay-joshi-official&theme=radical" width="49%" alt="GitHub stats: stars, commits, pull requests, issues" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmay-joshi-official&theme=radical" width="60%" alt="Profile details and contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmay-joshi-official&theme=radical" width="49%" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanmay-joshi-official&theme=radical" width="49%" alt="Most committed languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmay-joshi-official&theme=radical" width="32%" alt="GitHub stats: stars, commits, pull requests, issues" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmay-joshi-official&theme=radical" width="32%" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanmay-joshi-official&theme=radical" width="32%" alt="Most committed languages" />
 </p>
 
 <p align="center">
